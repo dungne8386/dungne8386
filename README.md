@@ -51,7 +51,7 @@
 <h2 align="center">🔥 Thống kê GitHub của Tiến Dũng 🔥</h2> <!-- https://github.com/anuraghazra/github-readme-stats --> <br> 
 <div align="center">   
   <a href="#" title="Tien Dung">     
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungne8386&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />   
+    <img width="315" align="center" src="https://camo.githubusercontent.com/462ce6b6b61b5d4d15e4adee0c5f7ff0fb8a0f7209a34ffc56ae544a49b0dd7a/68747470733a2f2f6769746875622d726561646d652d73746174732d73616c65737030372e76657263656c2e6170702f6170693f757365726e616d653d73616c657370303726636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d72656163742672616e6b5f69636f6e3d67697468756226626f726465725f7261646975733d3130" />   
   </a>   
   <a href="#" title="Tien Dung">     
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=dungne8386&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />   
