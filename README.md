@@ -72,7 +72,7 @@
   <a href="https://www.youtube.com/@dungne8386" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png"  />
   </a>
-  <a href="https://www.linkedin.com/in/ti%E1%BA%BFn-d%C5%A9ng-ph%E1%BA%A1m-5509322ba/" target="blank">
+  <a href="https://www.linkedin.com/in/ph%E1%BA%A1m-ti%E1%BA%BFn-d%C5%A9ng-5509322ba/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png"  />
   </a>
   <a href="https://www.instagram.com/dungne8386/" target="blank">
