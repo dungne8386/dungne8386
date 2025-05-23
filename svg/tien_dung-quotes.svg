@@ -1,37 +1,49 @@
 <svg fill="none" viewBox="0 0 846 150" width="846" height="150" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-				.container {
-					font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-					display: flex;
-					flex-direction: column;
-					align-items: center;
-					justify-content: center;
-					margin: 0;
-					width: 100%;
-					height: 150px;
-          background-color: #20232A;
-					border-radius: 10px;
-					color: white;
-          line-height: 1.6;
-				}
-        .quotes-eng {
-          font-size: 18px;
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          width: 100%;
+          height: 100%;
+          background-color: #1e1e2f;
+          border-radius: 12px;
+          color: #ffffff;
+          padding: 20px;
+          box-sizing: border-box;
+          text-align: center;
         }
+
+        .quotes-eng {
+          font-size: 20px;
+          font-weight: 600;
+          margin-bottom: 8px;
+          color: #00d8ff;
+        }
+
         .quotes-vi {
           font-size: 18px;
+          font-style: italic;
+          margin-bottom: 10px;
+          color: #a5c9ff;
         }
+
         .trungquandev-signature {
           font-size: 16px;
+          font-weight: 500;
+          color: #ffd580;
         }
-			</style>
+      </style>
 
-			<div class="container">
+      <div class="container">
         <div class="quotes-eng">"Learning new everyday not the copy cat of yesterday!"</div>
         <div class="quotes-vi">"Qua một ngày, chúng ta học thêm được gì mới? Hay vẫn là một bản sao của ngày hôm qua?"</div>
-        <div class="trungquandev-signature">- Tiến Dũng Dev Một lập trình viên -</div>
+        <div class="trungquandev-signature">- Phạm Tiến Dũng Dev • Một lập trình viên -</div>
       </div>
-		</div>
-	</foreignObject>
+    </div>
+  </foreignObject>
 </svg>
