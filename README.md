@@ -29,7 +29,7 @@
   <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordpress&logoColor=21759B" alt="WordPress" /></span>
 </div>
 
-<style>
+
   .tech-container {
     display: flex;
     flex-wrap: wrap;
@@ -63,7 +63,7 @@
       height: 25px;
     }
   }
-</style>
+
 
 
 <br>
