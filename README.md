@@ -1,6 +1,6 @@
 
 <a href="#" target="_blank">
-  <img src="svg/tien_dung.svg" width="1200"/>
+  <img src="svg/tien_dung.svg" width="1000"/>
 </a>
 
 <h2 align="center">🛠 Công nghệ và Công cụ 🛠</h2>
